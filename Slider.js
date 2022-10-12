@@ -57,3 +57,7 @@ class Tab {
         this.content[0].classList.add('active')
     }
 }
+
+// export file for using at another file
+
+export default Tab
